@@ -1,2 +1,2 @@
 # Coursera_1
-Coursera courses
+Coursera courses for Python
